@@ -24,3 +24,11 @@ p{
     border-radius: 20px;
 }
 
+.fotos {
+    width: 500px;
+    height: 300px;
+    margin: 10px;
+    padding: 3px;
+    border: 0.5rem solid black;
+    border-radius: 24px;
+}
