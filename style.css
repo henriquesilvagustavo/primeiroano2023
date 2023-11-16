@@ -1,5 +1,5 @@
 body {
-    background-color:gainsboro;
+    background-image: linear-gradient(gainsboro, darkviolet, black);
 }
 
 h1 {
