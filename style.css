@@ -6,6 +6,7 @@ body {
 header {
     background-color: gray;
     border-bottom: 8px solid darkviolet;
+    padding: 20px;
 }
 
 
