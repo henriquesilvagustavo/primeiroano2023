@@ -3,6 +3,12 @@ body {
     background-image: linear-gradient(white,gainsboro,deeppink,darkviolet);
 }
 
+header {
+    background-color: black;
+    border-bottom: 2px solid blueviolet;
+
+
+
 h1 {
     color:darkviolet;
     font-size: 50px;
