@@ -5,8 +5,8 @@ body {
 
 header {
     background-color: gray;
-    border-bottom: 5px solid darkviolet;
-    padding: 20px;
+    border-bottom: 3px solid darkviolet;
+    padding: 2px;
 }
 
 
@@ -49,7 +49,7 @@ p{
 }
 
 .lista{
-    font-size: 20px;
+    font-size: 30px;
     color:black;
     list-style: none;
 }
