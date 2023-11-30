@@ -47,3 +47,9 @@ p{
     border: 0.5rem solid black;
     border-radius: 24px;
 }
+
+.lista{
+    font-size: 30px;
+    color:black;
+    list-style: none;
+}
