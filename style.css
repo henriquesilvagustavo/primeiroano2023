@@ -53,3 +53,8 @@ p{
     color:black;
     list-style: none;
 }
+
+.item-lista{
+ display: inline-block;
+ justify-content: space-around;
+}
