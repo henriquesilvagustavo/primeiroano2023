@@ -54,7 +54,7 @@ p{
     list-style: none;
 }
 
-.item-lista{
+.item-lista {
  display: inline-block;
  justify-content: space-around;
 }
