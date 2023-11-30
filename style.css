@@ -9,6 +9,10 @@ header {
     padding: 2px;
 }
 
+.cabecalho {
+   display: flex;
+   justify-content: space-around;
+}
 
 h1 {
     color:darkviolet;
@@ -31,8 +35,8 @@ p{
 
 
 .logo {
-    width: 600px;
-    height: 600px;
+    width: 200px;
+    height: 200px;
     margin: 2px; /*insere um espaçamento externo ao elemento, ao redor da borda*/
     padding: 2px; /*define uma distância interna entreum elemento e sua borda*/
     border: 0.5rem solid black;
