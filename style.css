@@ -40,7 +40,7 @@ p{
     margin: 2px; /*insere um espaçamento externo ao elemento, ao redor da borda*/
     padding: 2px; /*define uma distância interna entreum elemento e sua borda*/
     border: 0.5rem solid black;
-    border-radius: 20px;
+    border-radius: 10px;
 }
 
 .fotos {
